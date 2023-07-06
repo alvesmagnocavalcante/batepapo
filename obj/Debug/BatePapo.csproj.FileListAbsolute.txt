@@ -1,0 +1,11 @@
+C:\Users\Magno Alves\Desktop\C#\BatePapo\bin\Debug\BatePapo.exe.config
+C:\Users\Magno Alves\Desktop\C#\BatePapo\bin\Debug\BatePapo.exe
+C:\Users\Magno Alves\Desktop\C#\BatePapo\bin\Debug\BatePapo.pdb
+C:\Users\Magno Alves\Desktop\C#\BatePapo\obj\Debug\BatePapo.csproj.AssemblyReference.cache
+C:\Users\Magno Alves\Desktop\C#\BatePapo\obj\Debug\BatePapo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magno Alves\Desktop\C#\BatePapo\obj\Debug\BatePapo.Form1.resources
+C:\Users\Magno Alves\Desktop\C#\BatePapo\obj\Debug\BatePapo.Properties.Resources.resources
+C:\Users\Magno Alves\Desktop\C#\BatePapo\obj\Debug\BatePapo.csproj.GenerateResource.cache
+C:\Users\Magno Alves\Desktop\C#\BatePapo\obj\Debug\BatePapo.csproj.CoreCompileInputs.cache
+C:\Users\Magno Alves\Desktop\C#\BatePapo\obj\Debug\BatePapo.exe
+C:\Users\Magno Alves\Desktop\C#\BatePapo\obj\Debug\BatePapo.pdb
